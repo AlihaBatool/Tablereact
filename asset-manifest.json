@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/Tablereact/static/js/main.777704ef.js",
+    "main.css": "/Tablereact/static/css/main.a381df63.css",
+    "main.js": "/Tablereact/static/js/main.3ef16331.js",
     "index.html": "/Tablereact/index.html",
-    "main.777704ef.js.map": "/Tablereact/static/js/main.777704ef.js.map"
+    "main.a381df63.css.map": "/Tablereact/static/css/main.a381df63.css.map",
+    "main.3ef16331.js.map": "/Tablereact/static/js/main.3ef16331.js.map"
   },
   "entrypoints": [
-    "static/js/main.777704ef.js"
+    "static/css/main.a381df63.css",
+    "static/js/main.3ef16331.js"
   ]
 }
